@@ -1,0 +1,21 @@
+MOS Office Simulator 3.3 ONLINE
+
+PARA PUBLICAR EN RENDER:
+1. Sube los archivos de esta carpeta a un repositorio nuevo de GitHub (todos en la raiz).
+2. En Render.com crea New > Web Service y conecta ese repositorio.
+3. Python, build: pip install -r requirements.txt
+4. Start: python server.py --no-browser
+5. Health check: /health
+6. Al terminar la publicacion, abre la URL https://NOMBRE.onrender.com desde cualquier equipo.
+
+Alternativa: Render New > Blueprint, selecciona el repositorio que incluye render.yaml.
+
+LOCAL: el archivo INICIAR_WINDOWS.bat sigue siendo opcional para uso sin Internet (http://127.0.0.1:8773).
+
+AVISOS:
+- No hay cuentas de usuario, privacidad por grupos ni historial persistente. Usar para practica con datos ficticios.
+- Los examenes estan en memoria; al reiniciarse Render o escalar instancias se pierde el intento.
+- Version publica no autentica participantes; quien tenga el enlace puede acceder.
+- El plan gratuito de Render puede suspenderse por inactividad, retrasando el arranque.
+- El limite de subida es 15 MB.
+- Es un simulador de entrenamiento, no examen oficial MOS.

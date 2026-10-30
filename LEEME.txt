@@ -1,0 +1,12 @@
+MOS Office Simulator 3.2
+
+1. Extrae TODO el ZIP en una carpeta.
+2. Ejecuta INICIAR_WINDOWS.bat. La primera ejecución instala dependencias en .venv.
+3. Abre http://127.0.0.1:8773 desde Chrome o Edge.
+4. Selecciona Word/Excel/PowerPoint y genera un examen.
+5. Descarga el archivo de práctica. Para tareas visuales, descarga también MOS_Imagen_Practica.png.
+6. Inicia la evaluación, trabaja en Microsoft Office y guarda el archivo modificado.
+7. Entrégalo desde la página y revisa el informe y el archivo modelo resuelto.
+
+Banco: Word 44, Excel 36, PowerPoint 36; total 116 tipos de tareas.
+La calificación es educativa, basada en propiedades verificables, y no sustituye el examen oficial MOS.
